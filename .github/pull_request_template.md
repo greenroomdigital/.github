@@ -24,7 +24,7 @@
 - [ ] **Other**:
 
 ### Visual evidence
-<!--- some screenshoots or log traces with the effects --->
+<!--- some screenshots or log traces with the effects --->
 
 ### Additional comments (optional) 
 <!--- any other information that would be useful --->
