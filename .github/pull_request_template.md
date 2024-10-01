@@ -11,7 +11,7 @@
 * [ ] Multiple files with code changes.
 * [ ] Multiple files just moved around.
 
-<!--- Detail all the points marked above. Refer to our [Team Tech Agreements](https://csmdigital.atlassian.net/wiki/spaces/CSMP/pages/2490695681/New+Team+Agreements#Team-Technical-Agreements.1) -> Big PRs for more info. -->
+<!--- Detail all the points marked above. Refer to "Big PRs" in https://csmdigital.atlassian.net/wiki/spaces/CSMP/pages/2490695681/New+Team+Agreements#Team-Technical-Agreements.1 for more info. -->
 
 ### Related issue
 <!--- Link to Jira ticket --->
