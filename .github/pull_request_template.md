@@ -1,7 +1,17 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
-<!--- Describe your changes in detail -->
+<!--- Describe your changes in detail. If it's a Big PR, remove this section -->
+
+## Description (Big PR)
+<!--- Mark what's included in this PR and describe it. If it isn't a Big PR, remove this section -->
+* [ ] Multiple features (which ones? how were they tested/how to test?).
+* [ ] Change of the scope (why?).
+* [ ] Introduces breaking changes (which ones?).
+* [ ] Multiple files with code changes.
+* [ ] Multiple files just moved around.
+
+<!--- Detail all the points marked above. Refer to our [Team Tech Agreements](https://csmdigital.atlassian.net/wiki/spaces/CSMP/pages/2490695681/New+Team+Agreements#Team-Technical-Agreements.1) -> Big PRs for more info. -->
 
 ### Related issue
 <!--- Link to Jira ticket --->
